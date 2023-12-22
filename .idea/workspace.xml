@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8190e1b-900a-41b9-9b45-c10b881785b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ProxyDesignPattern/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ProxyDesignPattern/EmployeeDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ProxyDesignPattern/EmployeeDaoProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ProxyDesignPattern/EmployeeDo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ProxyDesignPattern/ProxyMainClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignDataStructures/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignDataStructures/MyHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +63,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="DesignPatterns.ProxyDesignPattern" />
       <recent name="UseCasesOfLLD.LLDSnakeLadder" />
       <recent name="UseCasesOfLLD.VehicleRentalSystem" />
       <recent name="UseCasesOfLLD.CarRentalSystem" />
       <recent name="UseCasesOfLLD.LLDElevatorDesign" />
-      <recent name="UseCasesOfLLD.TicTacToe" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gaura\Desktop\Durgesh\Design-Patterns\out" />
