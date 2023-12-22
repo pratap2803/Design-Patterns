@@ -100,7 +100,7 @@ public class Main {
 
 
 
-        MyHashMap<Integer, String> map = new MyHashMap<>(7);
+        MyHashMap<Integer, String> map = new MyHashMap<>(10);
         map.put(1, "hi");
         map.put(2, "my");
         map.put(3, "name");

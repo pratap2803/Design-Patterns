@@ -24,9 +24,15 @@ public class MyHashMap<K, V>{
 
         return ( n< 0) ? 1: ( n>= MAXIMUM_CAPACITY) ? MAXIMUM_CAPACITY: n+1;
     }
+    static final int hash(Object key) {
+        int h;
+        return (key == null) ? 0 : (h = key.hashCode()) ^ (h >>> 16);
+    }
     public void put(K key, V value) {
-
-        int hashCode = key.hashCode() % hashTable.length;
+        // this is first way of finding hashcode which is inefficient or there are more chances of collision
+        //int hashCode = key.hashCode() % hashTable.length;
+        // this is second way of finding hashcode which is efficient or there are less chances of collision
+        int hashCode = hash(key); // this needs to be remember before interview
         Entry node = hashTable[hashCode];
 
         if(node == null) {
