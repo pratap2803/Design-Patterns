@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8190e1b-900a-41b9-9b45-c10b881785b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ChainOfResponsibility/DebugLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ChainOfResponsibility/ErrorLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ChainOfResponsibility/InfoLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ChainOfResponsibility/LogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/LLDSnakeLadder/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/LLDSnakeLadder/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/LLDSnakeLadder/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/LLDSnakeLadder/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/LLDSnakeLadder/Jump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/LLDSnakeLadder/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignDataStructures/Entry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignDataStructures/MyHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>

@@ -1,4 +1,4 @@
-import UseCasesOfLLD.LLDSnakeLadder.Game;
+import DesignDataStructures.MyHashMap;
 
 public class Main {
     public static void main(String[] args) {
@@ -95,9 +95,24 @@ public class Main {
 
         // Snake Ladder
 
-        Game obj = new Game();
-        obj.startGame();
+//        Game obj = new Game();
+//        obj.startGame();
 
 
+
+        MyHashMap<Integer, String> map = new MyHashMap<>(7);
+        map.put(1, "hi");
+        map.put(2, "my");
+        map.put(3, "name");
+        map.put(4, "is");
+        map.put(5, "Shrayansh");
+        map.put(6, "how");
+        map.put(7, "are");
+        map.put(8, "you");
+        map.put(9, "friends");
+        map.put(10, "?");
+
+        String value = map.get(8);
+        System.out.println(value);
     }
 }
