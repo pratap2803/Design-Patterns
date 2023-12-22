@@ -5,69 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8190e1b-900a-41b9-9b45-c10b881785b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AbstractFactoryPattern/Factory1/LuxFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AbstractFactoryPattern/Factory1/OrdinaryFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AbstractFactoryPattern/Factory1/VehicleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AbstractFactoryPattern/Factory2/Factory2GetFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AbstractFactoryPattern/Vehicle/LuxMercedes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AbstractFactoryPattern/Vehicle/OrdiSwift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AbstractFactoryPattern/Vehicle/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorPattern/BasePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorPattern/ExtraCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorPattern/Farmhouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorPattern/Margherita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorPattern/Mushroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorPattern/ToppingDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorPattern/VegDelight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorPattern/mainCl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryPattern/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryPattern/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryPattern/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryPattern/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverPattern/Observable/IphoneObservableImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverPattern/Observable/StocksObservable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverPattern/Observer/EmailAlertObserverImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverPattern/Observer/MobileAlertObserverImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverPattern/Observer/NotificationAlertObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverPattern/store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyPattern/GoodsVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyPattern/OffRoadVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyPattern/SportsVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyPattern/Strategy/DriveStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyPattern/Strategy/NormalDriveStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyPattern/Strategy/SportsDriveStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyPattern/Strategy/XYZdriveStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyPattern/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyPattern/mainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/LLDElevatorDesign/Building.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/LLDElevatorDesign/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/LLDElevatorDesign/ElevatorCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/LLDElevatorDesign/ElevatorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/LLDElevatorDesign/ElevatorCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/LLDElevatorDesign/ElevatorDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/LLDElevatorDesign/ElevatorDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/LLDElevatorDesign/ElevatorState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/LLDElevatorDesign/ExternalDispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/LLDElevatorDesign/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/LLDElevatorDesign/InternalButtons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/LLDElevatorDesign/InternalDispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/TicTacToe/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/TicTacToe/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/TicTacToe/PieceType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/TicTacToe/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/TicTacToe/PlayingPiece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/TicTacToe/PlayingPieceO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/TicTacToe/PlayingPieceX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/TicTacToe/TicTacToeGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/VehicleRentalSystem/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/VehicleRentalSystem/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/VehicleRentalSystem/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/VehicleRentalSystem/PaymentDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/VehicleRentalSystem/PaymentMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/VehicleRentalSystem/Product/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/VehicleRentalSystem/Product/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/VehicleRentalSystem/Product/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/VehicleRentalSystem/Product/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/VehicleRentalSystem/Product/VehicleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/VehicleRentalSystem/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/VehicleRentalSystem/ReservationStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/VehicleRentalSystem/ReservationType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/VehicleRentalSystem/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/VehicleRentalSystem/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/VehicleRentalSystem/VehicleInventoryManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/VehicleRentalSystem/VehicleRentalSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design-Patterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Patterns.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,19 +60,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="UseCasesOfLLD.VehicleRentalSystem" />
+      <recent name="UseCasesOfLLD.CarRentalSystem" />
       <recent name="UseCasesOfLLD.LLDElevatorDesign" />
       <recent name="UseCasesOfLLD.TicTacToe" />
     </key>
