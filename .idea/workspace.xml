@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8190e1b-900a-41b9-9b45-c10b881785b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/BookMyShow/BookMyShow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/BookMyShow/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/BookMyShow/Enums/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/BookMyShow/Enums/SeatCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/BookMyShow/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/BookMyShow/MovieController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/BookMyShow/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/BookMyShow/Screen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/BookMyShow/Seat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/BookMyShow/Show.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/BookMyShow/Theatre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/BookMyShow/TheatreController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/NullObjectDesignPattern/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/NullObjectDesignPattern/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/NullObjectDesignPattern/NullVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/NullObjectDesignPattern/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/NullObjectDesignPattern/VehicleFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
