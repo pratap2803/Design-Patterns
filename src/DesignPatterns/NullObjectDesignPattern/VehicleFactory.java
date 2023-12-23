@@ -1,4 +1,4 @@
-package UseCasesOfLLD.NullObjectDesignPattern;
+package DesignPatterns.NullObjectDesignPattern;
 
 public class VehicleFactory {
     static Vehicle getVehicleObject(String typeOfVehicle){

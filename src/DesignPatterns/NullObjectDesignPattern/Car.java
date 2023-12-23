@@ -1,4 +1,4 @@
-package UseCasesOfLLD.NullObjectDesignPattern;
+package DesignPatterns.NullObjectDesignPattern;
 
 public class Car implements Vehicle{
     @Override
