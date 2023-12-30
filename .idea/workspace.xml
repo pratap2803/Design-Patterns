@@ -5,22 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8190e1b-900a-41b9-9b45-c10b881785b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignATM/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignATM/ATMRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignATM/ATMStates/ATMState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignATM/ATMStates/CashWithdrawalState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignATM/ATMStates/CheckBalanceState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignATM/ATMStates/HasCardState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignATM/ATMStates/IdleState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignATM/ATMStates/SelectOperationState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignATM/AmountWithrawal/CashWithdrawProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignATM/AmountWithrawal/FiveHundredWithdrawProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignATM/AmountWithrawal/OneHundredWithdrawProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignATM/AmountWithrawal/TwoThousandWithdrawProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignATM/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignATM/TransactionType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignATM/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignATM/UserBankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/AccountStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/Bishop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/GameStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/King.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/Pawn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/Piece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/Rook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +32,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -74,11 +72,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="UseCasesOfLLD.ChessGame" />
       <recent name="UseCasesOfLLD.DesignATM.AmountWithrawal" />
       <recent name="UseCasesOfLLD.DesignATM" />
       <recent name="UseCasesOfLLD.DesignATM.ATMStates" />
       <recent name="UseCasesOfLLD.VendingMachine" />
-      <recent name="UseCasesOfLLD.VendingMachine.VendingStates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gaura\Desktop\Durgesh\Design-Patterns\src\UseCasesOfLLD" />
