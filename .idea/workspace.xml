@@ -5,23 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8190e1b-900a-41b9-9b45-c10b881785b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AdapterDesignPattern/Adaptee/WeightMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AdapterDesignPattern/Adaptee/WeightMachineForBabies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AdapterDesignPattern/Adapter/WeightMachineAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AdapterDesignPattern/Adapter/WeightMachineAdapterImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AdapterDesignPattern/Client/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/ProblemStatement/Directory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/ProblemStatement/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/ProblemStatement/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/Directory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/FileSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/ArthmeticExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Expression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignSplitwise/Balance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignSplitwise/BalanceSheetController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignSplitwise/Expense/Expense.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignSplitwise/Expense/ExpenseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignSplitwise/Expense/ExpenseSplitType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignSplitwise/Expense/Split/EqualExpenseSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignSplitwise/Expense/Split/ExpenseSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignSplitwise/Expense/Split/PercentageExpenseSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignSplitwise/Expense/Split/Split.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignSplitwise/Expense/Split/UnequalExpenseSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignSplitwise/Expense/SplitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignSplitwise/Group/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignSplitwise/Group/GroupController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignSplitwise/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignSplitwise/Splitwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignSplitwise/User/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignSplitwise/User/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/DesignSplitwise/UserExpenseBalanceSheet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +36,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -75,11 +76,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="UseCasesOfLLD.DesignSplitwise.Expense" />
       <recent name="UseCasesOfLLD.ChessGame" />
       <recent name="UseCasesOfLLD.DesignATM.AmountWithrawal" />
       <recent name="UseCasesOfLLD.DesignATM" />
       <recent name="UseCasesOfLLD.DesignATM.ATMStates" />
-      <recent name="UseCasesOfLLD.VendingMachine" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gaura\Desktop\Durgesh\Design-Patterns\src\UseCasesOfLLD" />
