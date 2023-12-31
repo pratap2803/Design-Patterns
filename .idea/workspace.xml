@@ -5,20 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8190e1b-900a-41b9-9b45-c10b881785b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/AccountStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/Bishop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/GameStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/King.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/Pawn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/Piece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseCasesOfLLD/ChessGame/Rook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AdapterDesignPattern/Adaptee/WeightMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AdapterDesignPattern/Adaptee/WeightMachineForBabies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AdapterDesignPattern/Adapter/WeightMachineAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AdapterDesignPattern/Adapter/WeightMachineAdapterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AdapterDesignPattern/Client/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/ProblemStatement/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/ProblemStatement/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/ProblemStatement/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/FileSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/ArthmeticExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Operation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +35,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
